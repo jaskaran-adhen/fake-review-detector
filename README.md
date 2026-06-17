@@ -14,15 +14,23 @@ A clean, simple, and professional machine learning pipeline for detecting fake p
 
 ### 1. Analysis Verdict and Linguistic Red Flags
 This view shows the verdict, combined confidence, model scores breakdown, linguistic red flags, and token attributions for the input review:
-![Verdict Analysis Dashboard](output/screenshots/dashboard_analysis.png)
+<img width="1251" height="707" alt="image" src="https://github.com/user-attachments/assets/dc045df5-2729-42e3-b19d-952bb19a0699" />
+
 
 ### 2. Confidence Comparison and Gauge
 This tab displays the model prediction comparison bar chart and verdict indicator gauge:
-![Model Confidence Charts](output/screenshots/dashboard_confidence.png)
+<img width="984" height="575" alt="image" src="https://github.com/user-attachments/assets/43c4d9f0-c411-4fd8-a7fa-df1cd16f119a" />
+
 
 ### 3. Word Influence and Custom Word Cloud
 This tab displays local word attribution weights (red for fake indicators, green for real indicators) and word cloud distributions:
-![Linguistic Attribution Charts](output/screenshots/dashboard_influences.png)
+<img width="1009" height="679" alt="image" src="https://github.com/user-attachments/assets/a2c8847b-4a81-48d3-8f83-ed123b248023" />
+
+<img width="1253" height="416" alt="image" src="https://github.com/user-attachments/assets/70b95886-bd1e-4aed-9db7-acb2fe93214e" />
+<img width="1238" height="695" alt="image" src="https://github.com/user-attachments/assets/31addfc6-038b-49c8-9521-ab4162b93b36" />
+
+
+
 
 ## Installation
 
